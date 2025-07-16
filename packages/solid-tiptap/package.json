@@ -1,5 +1,5 @@
 {
-  "version": "0.7.0",
+  "version": "0.8.0",
   "type": "module",
   "types": "./dist/types/index.d.ts",
   "main": "./dist/cjs/production/index.cjs",
@@ -26,7 +26,7 @@
   "keywords": [
     "pridepack"
   ],
-  "name": "solid-tiptap",
+  "name": "@aldobarr/solid-tiptap",
   "devDependencies": {
     "@tiptap/core": "^2.26.1",
     "@tiptap/pm": "^2.26.1",
