@@ -26,7 +26,7 @@
   "keywords": [
     "pridepack"
   ],
-  "name": "@aldobarr/solid-tiptap",
+  "name": "solid-tiptap",
   "devDependencies": {
     "@tiptap/core": "^2.26.1",
     "@tiptap/pm": "^2.26.1",
