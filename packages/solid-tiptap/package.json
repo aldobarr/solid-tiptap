@@ -49,7 +49,7 @@
   },
   "description": "SolidJS bindings for Tiptap",
   "repository": {
-    "url": "https://github.com/lxsmnsyc/solid-tiptap.git",
+    "url": "https://github.com/aldobarr/solid-tiptap.git",
     "type": "git"
   },
   "homepage": "https://github.com/lxsmnsyc/solid-tiptap/tree/main/packages/solid-tiptap",
